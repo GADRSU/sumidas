@@ -1,6 +1,42 @@
 #col1{
-    background-image: url('19.jpeg'); width:500px;height:800px;background-size: cover;background-repeat: no-repeat;
+    background-image: url('19a.jpeg'); width:700px;height:600px;background-size: cover;background-repeat: no-repeat;padding-right: 20px;
+    background-position: bottom;
 }
-h1{
-    text-align: center;
+
+#sun{
+    color: white; padding-top: 100px;
 }
+
+#font{
+    color: white;
+}
+
+#font1{
+    color: black; background-color: white; border-radius: 30px;
+}
+
+p{
+    text-align: center; color: white;    font-family: 'Fraunces', serif; font-size: 40px; padding-top: 120px;
+}
+
+#img1{
+     padding-left: 610px; height: 120px; padding-top: 35px;
+
+}
+#col2{
+    background-color: white;
+}
+#p1{
+    color: gray; text-align: justify; font-size: small;padding-left: 50px; padding-top: 1px; padding-bottom: 40px;
+}
+h3{
+    font-family: 'Fraunces', serif; font-size: 30px; margin: 50px; padding-top: 50px; 
+
+}
+h6{
+    padding-left: 50px; padding-top: 1px; padding-bottom: 5px;
+}
+img#img2{
+    width: 100%;
+}
+
