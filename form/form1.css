@@ -1,0 +1,13 @@
+.back{
+    background-color:rgb(13, 189, 101) ; height: 900px; width: 100%;
+}
+.first{
+     margin-top: 70px;
+}
+.submit{
+    text-align: center;
+}
+ .btn{   
+    background-image: linear-gradient(rgb(12, 136, 22), rgb(11, 24, 197)); justify-content: center; padding-left: 30px; padding-right: 30px; padding-top: 20px;padding-bottom: 20px ;
+
+}
