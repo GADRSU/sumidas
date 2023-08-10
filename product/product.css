@@ -9,12 +9,13 @@
 #navbarDropdownMenuLink:hover {
 	text-decoration: none;
 	color:red;
-	/* background-color:black; */
+
 }
 
-/* nav.srch:hover{
-    color:red;
-} */
 #navbarDropdownMenuLink{
     padding-right: 30px; 
+}
+.srch:hover{
+  text-decoration: none;
+	color:red;
 }
