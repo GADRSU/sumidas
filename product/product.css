@@ -19,3 +19,21 @@
   text-decoration: none;
 	color:red;
 }
+.grid{
+  text-align: center; background-color:lightgrey;font-weight:100px;
+}
+#p1:hover{
+  color:red;
+}
+#p2:hover{
+  color:red;
+}
+#p3:hover{
+  color:red;
+  border-radius: 50%;
+}
+#p1{
+  padding-top: 70px;
+}
+
+
