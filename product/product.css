@@ -35,5 +35,35 @@
 #p1{
   padding-top: 70px;
 }
+a{
+  text-decoration: none; color: black;
+  }
+  a:hover{
+      text-decoration: none;
+    color:red;
+  }
 
 
+input.input-f{
+  border: none;
+  font-size: 15px;
+ word-spacing: 2px;
+}
+input[type="range"]::-webkit-slider-runnable-track {
+  -webkit-appearance: none; 
+  appearance: none;
+ 
+  background: red;
+  width: 200px;
+
+}
+
+/***** Thumb Styles *****/
+/***** Chrome, Safari, Opera, and Edge Chromium *****/
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  margin-top: -12px; /* Centers thumb on the track */
+  background-color: #e3e9ea;
+     
+}
