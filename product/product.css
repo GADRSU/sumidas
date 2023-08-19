@@ -67,5 +67,16 @@ color: white;
   border:none;
 }
 #img{
-  width: 15px;
+  width: 15px; height: 15px;
+}
+.line{
+  text-decoration-line: line-through;
+}
+
+.chair{
+  text-align: end;
+}
+li .page-item a.page-link:hover{
+  background-color: red;
+color: white;
 }
