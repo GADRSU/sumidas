@@ -11,6 +11,9 @@
 	color:red;
 
 }
+/* .offcanvas-body>.dropdown-menu:active{
+  pointer-events: none;
+} */
 
 #navbarDropdownMenuLink{
     padding-right: 30px; 
@@ -75,8 +78,15 @@ color: white;
 
 .chair{
   text-align: end;
+
 }
-li .page-item a.page-link:hover{
-  background-color: red;
-color: white;
+.page-item a:hover{
+  background-color: rgb(250, 15, 15);
+color:black;
+
+}
+.page-item a{
+  background-color: antiquewhite;
+  block-size: 35px;
+  margin-bottom: 80px; 
 }
